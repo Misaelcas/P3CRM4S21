@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package p3fdm4s21;
+package p3crm4s21;
 
 /**
  *
  * @author ACER
  */
-public class P3FDM4S21 {
+public class P3CRM4S21 {
 
     /**
      * @param args the command line arguments
